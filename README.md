@@ -28,6 +28,7 @@ SEGURIDAD
 - La carpeta DatosDemo activa se conserva como DatosDemo_original.
 - Si DatosDemo_original ya existe, se conserva con fecha y hora.
 - Si el proceso falla, la automatización intenta recuperar la situación anterior.
+  
 ARCHIVOS PRINCIPALES
 
 - abrir-restauracion-datos-demo.cmd: lanzador.
