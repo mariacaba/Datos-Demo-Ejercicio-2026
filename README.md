@@ -2,7 +2,7 @@
 Importar la base de datos de Damos Demo actualizada al ejercicio 25/26 previo a la importación desde el asistente de empresas
 
 
-Selecciona la casilla de verificación de que Sage 200c está cerrado en los equipos y pulsa el botón de Iniciar restauración 
+Selecciona la casilla de verificación de que Sage 200c/SDC está cerrado en los equipos y pulsa el botón de Iniciar restauración 
 
 
 
